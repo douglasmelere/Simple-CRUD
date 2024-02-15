@@ -34,5 +34,5 @@ Siga estas etapas para configurar o projeto localmente.
 
 No terminal, navegue até o diretório do projeto e execute:
 
-```
+```bash
 npm install
