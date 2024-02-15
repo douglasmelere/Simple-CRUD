@@ -13,7 +13,6 @@ Este projeto é um sistema CRUD (Create, Read, Update, Delete) simples, desenvol
 
 O projeto é organizado da seguinte forma:
 
-- `.vscode/`: Configurações do editor VSCode para manter a consistência no desenvolvimento.
 - `models/`: Diretório para armazenar modelos de dados, caso aplicável.
 - `.gitignore`: Arquivo para especificar arquivos não rastreados pelo Git.
 - `README.md`: Documentação do projeto (este arquivo).
