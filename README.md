@@ -36,3 +36,40 @@ No terminal, navegue até o diretório do projeto e execute:
 
 ```bash
 npm install
+```
+
+Isso instalará todas as dependências necessárias listadas no `package.json`.
+
+## Rodar o Projeto
+
+Para iniciar o servidor e acessar a aplicação, execute:
+
+```bash
+npm run start
+```
+Após o servidor iniciar, abra seu navegador e acesse `http://localhost:3000` para ver a aplicação em funcionamento.
+
+## Como Contribuir
+
+Contribuições são muito bem-vindas, seja adicionando novas funcionalidades, corrigindo bugs ou melhorando a documentação. Para contribuir:
+
+1. Faça um fork do projeto.
+2. Crie uma nova branch para sua contribuição (`git checkout -b feature/AmazingFeature`).
+3. Faça commit de suas mudanças (`git commit -m 'Add some AmazingFeature'`).
+4. Faça push para a branch (`git push origin feature/AmazingFeature`).
+5. Abra um Pull Request.
+
+## Licença
+
+Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
+
+## Contato
+
+Douglas Melere Tibola Junior - douglasmelere@gmail.com
+
+Link do Projeto: [https://github.com/seuusuario/seuprojeto](https://github.com/douglasmelere/Simple-CRUD)
+
+Desenvolvido com ❤️ por Douglas
+
+
+
